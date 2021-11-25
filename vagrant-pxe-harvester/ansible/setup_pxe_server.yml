@@ -10,3 +10,4 @@
     - role: http
     - role: ipxe
     - role: harvester
+    - role: https
